@@ -1,2 +1,2 @@
-Skin Cancer Detection Model
+# Skin Cancer Detection Model
 
