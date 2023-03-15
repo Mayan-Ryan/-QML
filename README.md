@@ -1,2 +1,2 @@
-# QML
-Quantum CNN for skin cancer detection
+Skin Cancer Detection Model
+
